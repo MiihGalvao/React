@@ -5,7 +5,7 @@ function Descricao(){
     let [developer, setDeveloper] = React.useState({
         lang: "PHP",
         anos: 0,
-        nome: "Thyago"
+        nome: "Milena"
     });
     
     useEffect(()=>{
